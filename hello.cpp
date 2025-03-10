@@ -11,5 +11,5 @@ int main(void) {
   cout << "Another game changing change";
   cout << "Another game changing change";
   cout << "Another game changing change";
-  return 0;
+  cout << "This should make an error" return 0;
 }
