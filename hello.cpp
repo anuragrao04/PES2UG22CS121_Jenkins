@@ -9,5 +9,6 @@ int main(void) {
   cout << "I have can use more than one braincell";
   cout << "This is a change";
   cout << "Another game changing change";
+  cout << "Another game changing change";
   return 0;
 }
